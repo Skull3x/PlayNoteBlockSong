@@ -1,4 +1,5 @@
 <?php
+
 namespace PlayNoteBlockSong;
 
 use pocketmine\plugin\PluginBase;
